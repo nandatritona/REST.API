@@ -1,0 +1,21 @@
+{
+  "name": "REST_API",
+  "version": "1.0.0",
+  "description": "Mencoba Membuat API dengan Node Js dan Express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandatritona/REST.API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nandatritona/REST.API/issues"
+  },
+  "homepage": "https://github.com/nandatritona/REST.API#readme"
+}
